@@ -8,6 +8,8 @@ verify_ssl = true
 [packages]
 marshmallow = "==2.16.3"
 pymongo = "*"
+pyjwt = "*"
+flask = "*"
 
 [requires]
 python_version = "3.7"
